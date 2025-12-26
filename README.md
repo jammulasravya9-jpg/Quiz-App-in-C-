@@ -29,3 +29,7 @@ The application displays multiple-choice questions, takes user input, validates 
 1️⃣ Save the file as `quiz.cpp`  
 2️⃣ Open your terminal / command prompt  
 3️⃣ Compile the program:
+
+## 📸 Program Demo
+
+
