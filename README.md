@@ -32,4 +32,7 @@ The application displays multiple-choice questions, takes user input, validates 
 
 ## 📸 Program Demo
 
+![Quiz App Screenshot](quiz_ss.png)
+
+
 
